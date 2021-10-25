@@ -1,0 +1,24 @@
+.image-text{
+    height: 450px;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+.Flex
+{
+    display: flex;
+    margin-left: 100px;
+    width:1300px;
+    height:450px;
+}
+.image-Footer{
+    background: url(https://a0.muscache.com/im/pictures/ad109d56-2421-40cd-98e6-e114160dc85b.jpg?im_w=480) center/cover no-repeat;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.text{
+    font-weight: lighter;
+}

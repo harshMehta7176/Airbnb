@@ -1,0 +1,27 @@
+.Middlebottom{
+    display: flex;
+    margin-left: 100px;
+    width: 1350px;
+}
+
+.image-text{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.image{
+    background: url(https://a0.muscache.com/im/pictures/2f13349d-879d-43c6-83e3-8e5679291d53.jpg?im_w=480) center/cover no-repeat;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.othertext{
+    background: url(https://a0.muscache.com/im/pictures/2595054e-d1d9-4fde-8046-58d51fcb3164.jpg?im_w=1440) center/cover no-repeat;
+    height:500px;
+    width:1350px;
+    margin-left:100px;
+    border-radius: 15px;
+}

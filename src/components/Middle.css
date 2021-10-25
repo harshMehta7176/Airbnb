@@ -1,0 +1,44 @@
+.middle{
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top-text{
+  
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+    text-align: left;
+    z-index: -1;
+    margin-left: 100px;
+}
+
+.middle-top{
+    display: flex;
+}
+.photo{
+    background: url(https://a0.muscache.com/im/pictures/be4d3ba5-08d7-4afe-95a7-f2da6453886a.jpg?im_q=medq&im_w=240) center/cover no-repeat;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.photo-text{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 80px;
+    margin-right: 150px;
+}
+
+.text{
+    font-size: 16px;
+}
